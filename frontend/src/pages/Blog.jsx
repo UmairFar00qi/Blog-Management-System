@@ -347,7 +347,7 @@ export default function Blogs() {
                           onClick={() => handleUpdate(blog._id)} 
                           className="btn-primary"
                         >
-                          Read Full Article
+                          Read Full Articles
                         </button>
                       </div>
                     </div>

@@ -305,7 +305,7 @@ export default function Login() {
                   onClick={() => alert("Forgot Password clicked")}
                   style={{ fontSize: "14px", color: "#0f172a", fontWeight: "600", cursor: "pointer" }}
                 >
-                  Forgot password?
+                  ForgoT password?
                 </span>
               </div>
 
